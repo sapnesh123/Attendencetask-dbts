@@ -36,6 +36,7 @@ app.use(cors({
       "http://localhost:3000",
       "http://localhost:3002",
       "https://attendencetask.onrender.com",
+      "https://attendencetask-dbts.onrender.com",
     ];
 
     if (!origin || allowedOrigins.includes(origin) || origin.endsWith(".vercel.app") || origin.endsWith(".netlify.app")) {
