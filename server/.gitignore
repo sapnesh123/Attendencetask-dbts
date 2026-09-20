@@ -1,0 +1,7 @@
+server.log
+server.log
+
+.env
+node_modules
+logs
+*.log
